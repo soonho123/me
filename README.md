@@ -10,7 +10,7 @@
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage)
 <h2>SNS</h2>
-<a href="https://www.instagram.com/gwaggwanghyi4468/">
+<a href=https://www.instagram.com/s__ho0901/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a> <br>
 
